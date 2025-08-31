@@ -1,1 +1,1 @@
-# Projek--3--Week2
+Website sederhana dengan php dan konsep Model-View-Controller (MVC)
